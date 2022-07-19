@@ -39,6 +39,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-back55&" alt="dev-back55" /></p>
 <br/>
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Open one of my PlayList]](https://open.spotify.com/playlist/4TXY63u2AQ2Rtfb4oMvoyo)
+
+---
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
