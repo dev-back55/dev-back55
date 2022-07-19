@@ -49,4 +49,4 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-⭐️ From [HoracioAbitu](https://github.com/dev-back55)
+⭐️ From [Horacio Abitu](https://github.com/dev-back55)
