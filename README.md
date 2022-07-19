@@ -27,10 +27,10 @@
 <h3 align="center">🚀 Full Stack Developer ♥ | PERN Stack ♥ | Open Source ♥ | Linux ♥ | Develop Solutions ♥  🚀</h3>
 <br/>
 <h4>Summary:</h4>
-<p>JavaScript, TypeScript, React, Redux, Babel</p>
+<p>JavaScript, React, Redux, Babel</p>
 <p>Node.JS, Express.Js</p>
 <p>CSS, Sass, Less</p>
-<p>PostgreSQL, Postman</p>
+<p>PostgreSQL, Sequelize, Postman</p>
 <p>Git, SCRUM, Slack, Trello</p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-back55&show_icons=true&locale=en&layout=compact" alt="dev-back55" /></p>
