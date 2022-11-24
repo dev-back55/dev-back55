@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-back55" alt="dev-back55" /></a> </p>
 
-- 🔭 I’m currently working on [TechMarket App](https://techmarketfront.vercel.app/)
+- 🔭 I’m currently working on [World Cup App](https://worldcup-app.vercel.app/)
 
-- 🌱 I’m currently learning **Sass, TypeScript, Flutter, Flutter Flow, Next.js**
+- 🌱 I’m currently learning **Sass, TypeScript, Flutter, Flutter Flow, Next.js, NextUI**
 
 - 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize**
 
