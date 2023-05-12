@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-back55" alt="dev-back55" /></a> </p>
 
-- 🔭 I’m currently working on [World Cup App](https://worldcup-app.vercel.app/)
+- 🔭 I’m currently working on [ReservaFacil](https://github.com/dev-back55/ReservaFacil-app)
 
-- 🌱 I’m currently learning **Sass, TypeScript, Flutter, Flutter Flow, Next.js, NextUI**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize**
+- 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize, mongoose, mongoDB, node.js, express.js**
 
 - 📫 How to reach me **ahabitu@gmail.com**
 
