@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ReservaFacil](https://github.com/dev-back55/ReservaFacil-app)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Supabase, React Native**
 
 - 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize, mongoose, mongoDB, node.js, express.js**
 
