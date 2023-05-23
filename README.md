@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Supabase, React Native**
 
-- 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize, mongoose, mongoDB, node.js, express.js, next.js **
+- 💬 Ask me about **javascript, react, redux, sql, postgres, sequelize, mongoose, mongoDB, node.js, express.js, next.js, react-native **
 
 - 📫 How to reach me **ahabitu@gmail.com**
 
