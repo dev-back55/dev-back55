@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/horacioabitu/](https://www.linkedin.com/in/horacioabitu/)
 
-- 📄 My portfolio [https://horacio-abitu.vercel.app/](https://horacio-abitu.vercel.app/)
+- 📄 My portfolio [https://horacioabitu.com.ar/](https://horacioabitu.com.ar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
